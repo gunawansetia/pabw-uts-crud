@@ -1,0 +1,38 @@
+.page-section {
+  padding: 8rem 0;
+}
+
+.bg-custom {
+  background-color: #f5f8fd !important;
+}
+
+.coverBg {
+	background-image: url(img/bankgun.png);
+	background-repeat: no-repeat;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background-size: 100%;
+}
+
+.wrapper {
+
+	background-color: #4A50B2;
+	position: relative;
+}
+
+.putih {
+	color: #FFFFFF;
+	position: relative;
+}
+
+.page-section2{
+  padding: 2rem 0;
+}
+
+.agakungu {
+	background-color: #EDEDFF;
+	position: relative;
+}
+
+
